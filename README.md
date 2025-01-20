@@ -1,20 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Abrar Khan
 
-# Abrar Khan
+### Senior Software Engineer | Full Stack Developer | AI Enthusiast
 
-## Full Stack Developer
+I am a passionate Senior Software Engineer with over 6 years of experience designing and developing scalable systems. My expertise spans a range of technologies, from Python, PHP, Node.js, and JavaScript to system architecture, DevOps practices, and AI integration. I focus on delivering high-performance, secure software solutions that solve real-world problems, streamline business operations, and enhance user experiences.
 
-I'm a passionate software developer with a strong interest in building scalable and efficient applications. Currently, I'm honing my skills as a full stack developer and am eager to collaborate on open source projects.
+I'm currently refining my skills as a full-stack developer and am eager to collaborate on open-source projects. If you're looking for a dedicated team player or mentor, let's connect!
 
-### 🌟 Open to:
+### 🌟 What I'm Open To:
+- **Collaborating on Open Source Projects**
+- **Mentoring the Next Generation of Developers**
+- **Innovating and Implementing AI Solutions**
 
-- **Work/Collaborate on Open Source Projects**
+---
 
-### 👨‍🏫 Mentor:
+### 👨‍🏫 **Mentorship:**
+I've had the privilege of mentoring in various organizations, helping others grow their technical skills and supporting them in achieving their goals.
 
-- I have been a mentor for a couple of organizations, helping others to grow their skills and achieve their goals.
-
-### 🛠 Technologies I work with:
+### 🛠 **Technologies I Work With:**
+I'm comfortable working with a wide range of technologies, making me adaptable to many different environments.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -39,25 +42,26 @@ I'm a passionate software developer with a strong interest in building scalable 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-
 </p>
 
-## Playlist 🎧
+---
 
-<!-- ### 📚 Featured Projects:
-- **Project 1**: Brief description of your project, what it does, and the technologies you used.
-- **Project 2**: Brief description of your project, what it does, and the technologies you used.
-- **Project 3**: Brief description of your project, what it does, and the technologies you used. -->
+### 📫 **Find Me:**
 
-### 📫 Find me:
-<p align="center">
-  <a href="https://x.com/Theabrar777" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/saytoabrarkhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-</p>
+- [Twitter](https://x.com/Theabrar777)
+- [LinkedIn](https://www.linkedin.com/in/saytoabrarkhan/)
+- [Medium](https://medium.com/)
 
+---
 
+### **Skills:**
+- **Languages**: Python, JavaScript, PHP, TypeScript, Java, Bash Shell
+- **Frameworks/Tools**: React.js, Django, Flask, Node.js, Kubernetes, Docker
+- **Databases**: MySQL, PostgreSQL, MongoDB, ElasticSearch, Snowflake
+- **Cloud Platforms**: AWS, GCP, Azure
+- **DevOps**: Terraform, CI/CD Pipelines
 
-## License
+---
 
-- Copyright 2020 ©  Abrar Khan
+### **License:**
+Copyright © Abrar Khan
