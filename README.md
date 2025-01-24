@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Abrar Khan
 
-### Senior Software Engineer | Full Stack Developer | AI Enthusiast
+### Senior Software Engineer | Full Stack Developer 
 
 I am a passionate Senior Software Engineer with over 6 years of experience designing and developing scalable systems. My expertise spans a range of technologies, from Python, PHP, Node.js, and JavaScript to system architecture, DevOps practices, and AI integration. I focus on delivering high-performance, secure software solutions that solve real-world problems, streamline business operations, and enhance user experiences.
 
