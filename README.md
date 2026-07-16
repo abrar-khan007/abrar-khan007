@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Software Engineer | Full Stack Developer 
 
-I am a passionate Senior Software Engineer with over 7+ years of experience designing and developing scalable systems. My expertise spans a range of technologies, from Python, PHP, Node.js, and JavaScript to system architecture, DevOps practices, and AI integration. I focus on delivering high-performance, secure software solutions that solve real-world problems, streamline business operations, and enhance user experiences.
+I am a passionate Senior Software Engineer with over 8+ years of experience designing and developing scalable systems. My expertise spans a range of technologies, from Python, PHP, Node.js, and JavaScript to system architecture, DevOps practices, and Agentic AI integration. I focus on delivering high-performance, secure software solutions that solve real-world problems, streamline business operations, and enhance user experiences.
 
 I'm currently refining my skills as a full-stack developer and am eager to collaborate on open-source projects. If you're looking for a dedicated team player or mentor, let's connect!
 
